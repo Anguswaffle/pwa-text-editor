@@ -4,7 +4,7 @@
 
   ## Description
 
-**My whole class did this together as a group. We all essentially have the same code.**
+  **My whole class did this together as a group. We all essentially have the same code.**
 
 
   This is a downloadable text editor app that uses PWA, Lighthouse, webpack, service workers, indexedDB, babel, and manifest. Here is how the app looks while deployed on heroku:
@@ -21,6 +21,8 @@
   
 
   ## Installation
+
+  https://just-another-excellent-text.herokuapp.com/
 
   After loading the heroku instance, you can click the "install" button (does not work in firefox) in the upper left-hand corner to install onto your device. 
 
