@@ -62,9 +62,6 @@ module.exports = () => {
     },
   };
 };
-white_check_mark
-eyes
-raised_hands
 
 
 
