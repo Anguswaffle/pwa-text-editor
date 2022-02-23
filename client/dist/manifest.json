@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Just Another Excellent Text Editor",
-  "short_name": "J.A.E.T.E",
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
